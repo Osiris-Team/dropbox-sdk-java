@@ -1,4 +1,4 @@
-com.fasterxml.jackson.core:jackson-core:2.7.9
+com.fasterxml.jackson.core:jackson-core:2.17.0
 com.google.android:android:4.1.1.4
 com.google.appengine:appengine-api-1.0-sdk:1.9.38
 com.squareup.okhttp3:okhttp:4.0.0
